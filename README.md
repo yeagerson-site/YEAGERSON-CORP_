@@ -170,7 +170,7 @@
   <!-- 🔗 Contact Buttons -->
   <div class="footer-buttons">
     <button class="action-btn" onclick="window.open('mailto:adityacharak14@gmail.com')">📧 Email</button>
-    <button class="action-btn" onclick="window.open('https://www.instagram.com/son__yeager_', '_blank')">📸 Instagram</button>
+    <button class="action-btn" onclick="window.open('https://www.instagram.com/ya__services', '_blank')">📸 Instagram</button>
     <button class="action-btn" onclick="window.open('https://wa.me/919469264220', '_blank')">💬 WhatsApp</button>
   </div>
 
